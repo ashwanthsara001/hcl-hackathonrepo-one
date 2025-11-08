@@ -45,5 +45,22 @@
   ]
 }
 
-
+1. Image pushed into docker hub
 ![alt text](image.png)
+
+2. Helm list and service:
+![alt text](image-1.png)
+
+3. Hit in browser via clusterIP (port -3001)
+![alt text](image-2.png)
+
+4. ADO - code pushed 
+![alt text](image-3.png)
+
+5. Service Connection in pipeline
+![alt text](image-4.png)
+
+6. Agent pool creation
+![alt text](image-5.png)
+
+7. 
