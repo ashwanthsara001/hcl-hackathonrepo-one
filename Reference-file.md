@@ -1,4 +1,4 @@
-#  docker pull ahilashoba/app-service:v1 
+#  docker pull ahilashoba/test-app-service-new
 #  Helm chart creation:
    #  Helm chart creation
    #  targetPort: 3001 # The port your application listens on inside the container
