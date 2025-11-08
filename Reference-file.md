@@ -22,7 +22,7 @@
    #  (or)
    #   using port forward
 
-   #  http://127.0.0.1:8080/appointments
+   #  http://127.0.0.1:3001/appointments   (target port exposed to 3001)
    Output: 
    {
   "message": "Appointments retrieved successfully",
@@ -44,3 +44,6 @@
     }
   ]
 }
+
+
+![alt text](image.png)
