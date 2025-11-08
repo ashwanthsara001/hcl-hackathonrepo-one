@@ -63,4 +63,5 @@
 6. Agent pool creation
 ![alt text](image-5.png)
 
-7. 
+7. Docker image and containers list
+![alt text](image-6.png)
